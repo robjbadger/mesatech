@@ -1,0 +1,7 @@
+<div style="width:80%; margin:auto; border:1px solid huntergreen">
+	<h1 align="center">You are logged in to the local machine 1124-robertb-s</h1><hr>
+	<p>Messages go here...</p>
+
+
+
+</div>

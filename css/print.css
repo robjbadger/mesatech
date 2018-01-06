@@ -1,0 +1,25 @@
+.body{
+visibility:hidden;
+}
+.section-frame{
+	max-width:950px;
+	margin:auto;
+
+}
+.table-print{
+	width:100%;
+	border:1px solid #444;
+	margin:auto;
+	border-collapse:collapse;
+
+}
+.table-print td th{
+	border:1px solid #00fff0;
+}
+.barcode{
+
+font-family: 'Libre Barcode 128 Text';
+font-size: 30px;
+}
+.noprint{visibility:hidden;}
+.print {visibility:visible;}

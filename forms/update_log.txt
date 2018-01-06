@@ -1,0 +1,45 @@
+﻿
+Thanks for your support. Feel free to contact us any time for support / bugs / new feature request :) 
+
+nikhila@thewebfosters.com - support email
+
+http://thewebfosters.com
+
+==============================================================================================================
+[ Version 2.2 ]
+- MySQL Database integration.
+- Sending of Email using SMTP added
+- Improved interface for Email
+- File Upload, with preview, size validation, type validation, attachement in email, save uploaded file names in database
+
+[ Version 2.1 ]
+- Minor Bug fixes
+
+[ Version 2.0 ]
+- Font Awesome suport added with Left-Right Indentation
+- Highlight error fields Option added (Settings -> Color setting)
+- EMail auto-responder added (Email -> Auto Response )
+- Alphanumeric and Letters validation type added to input fiels
+- Input fields height can be set in pixels
+- Email Subject can have Input Fields values
+- Font size can be set in pixels from (Settings -> Form font size)
+- Option to Redirect to Thank you page on Submit or Show notification on same page
+- Created forms can be downloaded to get HTML / CSS / Javascript / PHP files in well organised manner.
+- Directly including of forms has been removed.
+- Code Re-factoring
+- Simplified user interface.
+
+[ Version 1.2 ]
+- Added Password field.
+- Added Multi Select fields, with option to show multiple selected default fields.
+- Added Start Rating Field, With options to control Minimun, Maximum, default value, Captions for start and many more options.
+- Changed the UI to show Advanced Field in a different tab.
+
+[ Version 1.1 ]
+- New layout of setting section
+- Added submit button Size, Color and Allignment
+- Added form background color (Setting -> Color setting -> Background color)
+- Added field height option.
+
+[ Version 1.0 ]
+- Initial release
